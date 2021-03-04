@@ -1,0 +1,124 @@
+.Circle {
+    height: 150px;
+    width: 150px;
+    background-color:white;
+    border-radius:50%;
+    border-style: solid;
+    border-color: coral;
+    position: relative;
+    left: 40px;
+    top: 38px;
+}
+
+.Details {
+    height: 100px;
+    width: 700px;
+    background-color:#ff553b;
+    text-align: right;
+    margin-left: 2px;
+    position: relative;
+    left: 194px;
+    bottom: 100px;
+    padding-right: 1em;
+}
+
+.Content {
+    color: coral;
+    position: relative;
+    left: 40px;
+    top: 50px;
+    font-size:50px;
+
+}
+
+.resume {
+    margin: 50px;
+}
+
+.objective {
+    width: 400px;
+    position: relative;
+    left: 40px;
+    bottom: 6px;
+}
+
+.skills {
+    position: relative;
+    left: 40px;
+    bottom: -80px;
+    width: 400px;
+}
+
+.experience {
+    position: relative;
+    left: 500px;
+    bottom: 275px;
+    width: 400px;
+}
+
+.experience2 {
+    position: relative;
+    left: 500px;
+    width: 400px;
+    top: -290px;
+}
+
+.summary {
+    position:relative;
+    bottom: 23px;
+}
+
+.experience2 {
+    position: relative;
+    bottom: 310px;
+}
+
+.summary2 {
+    position: relative;
+    bottom: 20px;
+}
+
+.education1 {
+    position: relative;
+    left: 500px;
+    top: -312px;
+    width: 400px;
+}
+
+.summary3 {
+    position: relative;
+    bottom: 20px;
+}
+
+.education2 {
+    position: relative;
+    left: 500px;
+    top: -306px;
+    width: 400px;
+}
+
+.summary4 {
+    position: relative;
+    bottom: 19px;
+}
+
+.volunteer {
+    position: relative;
+    left: 500px;
+    bottom: 315px;
+    width: 400px;
+}
+
+.summary5 {
+    position: relative;
+    bottom: 300px;
+    width: 400px;
+    left: 500px;
+    
+}
+
+.line {
+    position: relative;
+    bottom: 315px;
+    left: 78px;
+}
