@@ -6,7 +6,7 @@
     border-style: solid;
     border-color: coral;
     position: relative;
-    left: 40px;
+    left: 44px;
     top: 38px;
 }
 
@@ -17,9 +17,10 @@
     text-align: right;
     margin-left: 2px;
     position: relative;
-    left: 194px;
-    bottom: 100px;
+    left: 180px;
+    bottom: 108px;
     padding-right: 1em;
+    z-index: -1;
 }
 
 .Content {
@@ -120,5 +121,10 @@
 .line {
     position: relative;
     bottom: 315px;
-    left: 78px;
+    left: 200px;
+}
+
+.resume {
+    margin-left: 12em;
+    margin-right: 12em;
 }
