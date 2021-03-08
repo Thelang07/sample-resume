@@ -128,3 +128,9 @@
     margin-left: 12em;
     margin-right: 12em;
 }
+
+.icon {
+    position: relative;
+    left: 215px;
+    bottom: 215px;
+}
